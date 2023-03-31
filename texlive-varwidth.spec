@@ -1,6 +1,6 @@
 Name:		texlive-varwidth
 Version:	24104
-Release:	1
+Release:	2
 Summary:	A variable-width minipage
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/varwidth
