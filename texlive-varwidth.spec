@@ -3,7 +3,7 @@ Version:	24104
 Release:	2
 Summary:	A variable-width minipage
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/varwidth
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/varwidth
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/varwidth.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/varwidth.doc.r%{version}.tar.xz
